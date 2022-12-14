@@ -26,11 +26,13 @@ Machine learning algorithms can be trained on historical data about loans and bo
 The goal of credit risk modeling is to help lenders make more informed decisions about the risks of lending money, and to manage those risks more effectively.
 
 <ins>**How does this help UON ML 2022 Class?**<ins>
+    
     By working on credit risk modeling projects, students can gain hands-on experience with applying machine learning algorithms to real-world data, and can learn how to use these algorithms to make predictions and identify patterns. This can help students to develop their technical skills and to better understand the practical applications of machine learning.
 
     In addition, studying credit risk modeling can also help students to develop their understanding of the financial industry and the role that machine learning plays in it. This can be valuable knowledge for students who are interested in pursuing careers in finance or in related fields. By learning about credit risk modeling, students can gain a better understanding of the challenges and opportunities that machine learning presents for the financial industry, and can develop the skills and knowledge that are needed to succeed in this field.
 
 <ins> ** How does credit risk modelling help financial institutions?**<ins>
+    
     Credit risk modeling can help financial institutions in several ways. First, it can help them to assess the risk of lending money to a particular borrower. By using machine learning algorithms to analyze historical data, lenders can predict the likelihood that a borrower will default on a loan, which can help them to decide whether to provide a loan and how much to charge in interest. This can help to reduce the overall risk of lending and to ensure that lenders only provide loans to borrowers who are likely to be able to repay them.
 
     Second, credit risk modeling can help financial institutions to manage their loan portfolios more effectively. By using these models to identify high-risk borrowers, lenders can take steps to reduce their exposure to those risks, such as by requiring higher interest rates or stricter repayment terms. This can help to reduce the overall level of risk in the lender's portfolio and to protect against losses from defaults.
