@@ -31,7 +31,7 @@ The goal of credit risk modeling is to help lenders make more informed decisions
 
     In addition, studying credit risk modeling can also help students to develop their understanding of the financial industry and the role that machine learning plays in it. This can be valuable knowledge for students who are interested in pursuing careers in finance or in related fields. By learning about credit risk modeling, students can gain a better understanding of the challenges and opportunities that machine learning presents for the financial industry, and can develop the skills and knowledge that are needed to succeed in this field.
 
-<ins> ** How does credit risk modelling help financial institutions?**<ins>
+<ins> **How does credit risk modelling help financial institutions?**<ins>
     
     Credit risk modeling can help financial institutions in several ways. First, it can help them to assess the risk of lending money to a particular borrower. By using machine learning algorithms to analyze historical data, lenders can predict the likelihood that a borrower will default on a loan, which can help them to decide whether to provide a loan and how much to charge in interest. This can help to reduce the overall risk of lending and to ensure that lenders only provide loans to borrowers who are likely to be able to repay them.
 
